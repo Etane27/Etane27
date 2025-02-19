@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Etane27
-- 👀 I’m interested in create video games and programs 
-- 🌱 I’m currently learning pyhton
-- 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me etane.babel@gmail.com or on discord Etane#6787
+# 👋 Hi, I’m Etane Babela (@Etane27)  
 
-<!---
-Etane27/Etane27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me  
+- 🎮 Passionate about **video games** and **programming**  
+- 💻 Currently learning **Python**, **HTML/CSS**, and **JavaScript**  
+- 🔭 Exploring **game development** and **software engineering**  
+- 🤝 Open to collaborating on **exciting projects**  
+
+## 📬 Contact Me  
+- 📧 Email: **babelaetane.pro@gmail.com**  
+- 💬 Discord: **Etane_**  
+
+---
+✨ *Always learning, always building!* 🚀
