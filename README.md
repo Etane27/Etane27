@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Etane Babela (@Etane27)  
+# 👋 Hi, I’m Etane (@Etane27)  
 
 ## 🚀 About Me  
 - 🎮 Passionate about **video games** and **programming**  
