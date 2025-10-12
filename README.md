@@ -1,14 +1,38 @@
-# 👋 Hi, I’m Etane (@Etane27)  
+# 👋 Hi, I’m **Etane Babela** (@Etane27)
 
-## 🚀 About Me  
-- 🎮 Passionate about **video games** and **programming**  
-- 💻 Currently learning **Python**, **HTML/CSS**, and **JavaScript**  
-- 🔭 Exploring **game development** and **software engineering**  
-- 🤝 Open to collaborating on **exciting projects**  
-
-## 📬 Contact Me  
-- 📧 Email: **babelaetane.pro@gmail.com**  
-- 💬 Discord: **Etane_**  
+## 💡 About Me  
+🎓 Student at **EPITA Toulouse**, training to become a **Software Engineer**  
+💻 Interested in **Full-Stack Development** and **Game Programming**  
+🧩 I like building useful, well-structured projects and improving my coding skills every day  
+🚀 Always learning new technologies and exploring better ways to create software  
 
 ---
-✨ *Always learning, always building!* 🚀
+
+## 🧠 Tech Stack  
+
+### Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Tools  
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Panda3D](https://img.shields.io/badge/Panda3D-000000?style=for-the-badge&logoColor=white)
+
+---
+
+## 🤝 Collaboration  
+I enjoy working on clear, well-defined projects — especially those that teach me something new.  
+I’m open to teamwork, feedback, and collaborative development.  
+
+---
+
+## 📬 Contact  
+📧 **babelaetane.pro@gmail.com**  
+💬 **Etane_** on Discord  
+
+---
+
+✨ *Learning. Building. Improving.* 🚀
