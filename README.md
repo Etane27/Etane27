@@ -31,7 +31,7 @@ I’m open to teamwork, feedback, and collaborative development.
 ---
 
 ## 📬 Contact  
-📧 **babelaetane.pro@gmail.com**  
+📧 **babela.etane.pro@gmail.com**  
 💬 **Etane_** on Discord  
 
 ---
