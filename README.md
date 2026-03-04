@@ -1,10 +1,7 @@
 # 👋 Hi, I’m **Etane Babela** (@Etane27)
 
 ## 💡 About Me  
-🎓 Student at **EPITA Toulouse**, training to become a **Software Engineer**  
-💻 Interested in **Full-Stack Development** and **Game Programming**  
-🧩 I like building useful, well-structured projects and improving my coding skills every day  
-🚀 Always learning new technologies and exploring better ways to create software  
+WIP
 
 ---
 
@@ -31,7 +28,6 @@ I’m open to teamwork, feedback, and collaborative development.
 ---
 
 ## 📬 Contact  
-📧 **babela.etane.pro@gmail.com**  
 💬 **Etane_** on Discord  
 
 ---
